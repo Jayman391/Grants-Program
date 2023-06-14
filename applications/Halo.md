@@ -16,6 +16,7 @@ Please provide the following:
 - A brief description of your project.
 - An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
 - An indication of why your team is interested in creating this project.
+- Our team is interested in this project because it allows us the opportunity to combine many areas of research and expertise that we're interested in while still producing an end result that will provide utility, not only to the use cases we envision using our PDK in, but also to have a more far reaching impact on the Web3 ecosystem as a whole.
 
 ### Project Details
 
